@@ -1,0 +1,7 @@
+{
+    "name": "nodejs-azure-blob",
+    "version": "0.0.1",
+    "dependencies": {
+        "azure-storage": "*"
+    }
+}
