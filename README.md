@@ -5,10 +5,7 @@ This proof of concept demonstrates how to perform some basic Blob tasks through 
 Steps to run the PoC:
 
 1 - npm install
-2 - edit and config parameters in app.js
-	- AZURE_STORAGE_ACCOUNT
-	- AZURE_STORAGE_ACCESS_KEY
-	- filepath
-	- resource_name
-	- container
-2 - node app.js
+
+2 - edit and set parameters in app.js
+
+3 - node app.js
